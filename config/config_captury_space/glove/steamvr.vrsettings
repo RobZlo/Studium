@@ -1,0 +1,33 @@
+{
+   "DesktopUI" : {
+      "pairing" : "1531,825,800,600,0",
+      "settings_desktop" : "1542,870,800,600,0"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 1112,
+      "gpuSpeedCount" : 1,
+      "gpuSpeedDriver" : "456.71",
+      "gpuSpeedHorsepower" : 1112,
+      "gpuSpeedRenderTargetScale" : 1.5,
+      "gpuSpeedVendor" : "NVIDIA GeForce GTX 1080 Ti",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "HMDManufacturer" : "HTC",
+      "HMDModel" : "VIVE_Pro MV"
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-AAB91DB8:BS2:1,LHB-CF3C54FD:BS2:1,LHB-B0A0A52F:BS2:1,LHB-46FDCC0B:BS2:1"
+   },
+   "steamvr" : {
+      "allowAsyncReprojection" : false,
+      "allowInterleavedReprojection" : false,
+      "displayFrequency" : 60,
+      "enableDistortion" : false,
+      "installID" : "3386372416178378401",
+      "lastVersionNotice" : "1.15.19",
+      "lastVersionNoticeDate" : "1610478940",
+      "motionSmoothing" : false,
+      "preferredRefreshRate" : 60
+   }
+}

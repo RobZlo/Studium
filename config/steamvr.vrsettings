@@ -1,0 +1,33 @@
+{
+   "DesktopUI" : {
+      "pairing" : "568,271,800,600,0",
+      "settings_desktop" : "720,432,800,600,0"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 1653,
+      "gpuSpeed1" : 1542,
+      "gpuSpeed2" : 1538,
+      "gpuSpeed3" : 1356,
+      "gpuSpeed4" : 1430,
+      "gpuSpeed5" : 1427,
+      "gpuSpeed6" : 1358,
+      "gpuSpeed7" : 1360,
+      "gpuSpeedCount" : 8,
+      "gpuSpeedDriver" : "456.71",
+      "gpuSpeedHorsepower" : 1438,
+      "gpuSpeedRenderTargetScale" : 1.5,
+      "gpuSpeedVendor" : "NVIDIA GeForce RTX 2080 Ti",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "HMDManufacturer" : "HTC",
+      "HMDModel" : "VIVE_Pro MV"
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-AAB91DB8:BS2:1,LHB-B0A0A52F:BS2:1,LHB-46FDCC0B:BS2:1,LHB-CF3C54FD:BS2:1"
+   },
+   "steamvr" : {
+      "lastVersionNotice" : "1.16.10",
+      "lastVersionNoticeDate" : "1615842605"
+   }
+}

@@ -1,0 +1,82 @@
+{
+	"source": "steam",
+	"applications": [
+		{
+			"app_key": "steam.app.250820",
+			"launch_type": "url",
+			"strings": {
+				"en_us": {
+					"name": "SteamVR"
+				}
+
+			}
+,
+			"image_path": "https://steamcdn-a.akamaihd.net/steam/apps/250820/header.jpg",
+			"last_played_time": "1620740515",
+			"url": "steam://launch/250820/VR"
+		}
+,
+		{
+			"app_key": "steam.app.348250",
+			"launch_type": "url",
+			"strings": {
+				"en_us": {
+					"name": "Google Earth VR"
+				}
+
+			}
+,
+			"image_path": "https://steamcdn-a.akamaihd.net/steam/apps/348250/header.jpg",
+			"default_bindings": [
+				{
+					"controller_type": "knuckles",
+					"url": "vr-input-workshop://1807342720"
+				}
+
+			]
+,
+			"last_played_time": "0",
+			"url": "steam://launch/348250/VR"
+		}
+,
+		{
+			"app_key": "steam.app.440630",
+			"launch_type": "url",
+			"strings": {
+				"en_us": {
+					"name": "The Brookhaven Experiment"
+				}
+
+			}
+,
+			"image_path": "https://steamcdn-a.akamaihd.net/steam/apps/440630/header.jpg",
+			"default_bindings": [
+				{
+					"controller_type": "knuckles",
+					"url": "vr-input-workshop://1780992320"
+				}
+
+			]
+,
+			"last_played_time": "0",
+			"url": "steam://launch/440630/VR"
+		}
+,
+		{
+			"app_key": "steam.app.452710",
+			"launch_type": "url",
+			"strings": {
+				"en_us": {
+					"name": "Realities"
+				}
+
+			}
+,
+			"image_path": "https://steamcdn-a.akamaihd.net/steam/apps/452710/header.jpg",
+			"last_played_time": "0",
+			"url": "steam://launch/452710/VR"
+		}
+
+	]
+
+}

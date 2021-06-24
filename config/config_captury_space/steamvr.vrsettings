@@ -1,0 +1,43 @@
+{
+   "DesktopUI" : {
+      "pairing" : "1036,249,800,600,0",
+      "settings_desktop" : "1112,432,800,600,0"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 1667,
+      "gpuSpeedCount" : 1,
+      "gpuSpeedDriver" : "27.21.14.5671",
+      "gpuSpeedHorsepower" : 1667,
+      "gpuSpeedRenderTargetScale" : 1.5,
+      "gpuSpeedVendor" : "NVIDIA GeForce RTX 2080 Ti",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "HMDManufacturer" : "HTC",
+      "HMDModel" : "VIVE_Pro MV"
+   },
+   "audio" : {
+      "activePlaybackMirrorDevice" : "{0.0.0.00000000}.{cbdfe619-2429-4a54-9130-971d939b88a3}",
+      "enablePlaybackMirror" : true,
+      "playbackMirrorDevice" : "{0.0.0.00000000}.{6fdfc472-22d2-4dda-820e-ae0d6526a2ef}",
+      "playbackMirrorDeviceName" : "TechniTwin (NVIDIA High Definition Audio)"
+   },
+   "camera" : {
+      "enableCamera" : true
+   },
+   "collisionBounds" : {
+      "CollisionBoundsWallHeight" : 2.3999999999999999
+   },
+   "dashboard" : {
+      "lastAccessedExternalOverlayKey" : "vive.pro.eye.calibration.dashboard"
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-CF3C54FD:BS2:1,LHB-46FDCC0B:BS2:1,LHB-B0A0A52F:BS2:1,LHB-AAB91DB8:BS2:1"
+   },
+   "steamvr" : {
+      "installID" : "6054432786229697122",
+      "lastVersionNotice" : "1.16.8",
+      "lastVersionNoticeDate" : "1614046934",
+      "showMirrorView" : false
+   }
+}
