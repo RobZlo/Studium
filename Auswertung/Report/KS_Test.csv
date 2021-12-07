@@ -1,0 +1,10 @@
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,30,30,30
+Normal Parameter,Mittelwert,"88,01","17,25","20,07"
+,Std. Abweichung,"27,28","14,15","14,76"
+Größte Differenz,Absolut,",17",",21",",21"
+,Positiv,",17",",21",",21"
+,Negativ,"-,09","-,12","-,12"
+Kolmogorov-Smirnov Z,,",95","1,17","1,18"
+Asymp. Sig. (2-seitig),,",330",",109",",108"
