@@ -1,0 +1,47 @@
+Table: Gruppenstatistiken
+,Gruppe,N,Mittelwert,Std. Abweichung,Standardfehler des Mittelwertes
+Zeit_abseits_prozentual,Szenario 1,6,"21,67","18,07","7,38"
+,Baseline 1,6,"16,33","14,69","6,00"
+
+Table: Test bei unabhängigen Stichproben
+,,Levene-Test der Varianzgleichheit,,T-Test für die Gleichheit der Mittelwerte,,,,,,
+,,F,Sig.,t,df,Sig. (2-seitig),Mittlere Differenz,Stdfehler der Differenz,95% Konfidenzintervall der Differenz,
+,,,,,,,,,Untere,Obere
+Zeit_abseits_prozentual,Varianzen sind gleich,",36",",561",",56","10,00",",587","5,33","9,51","-15,85","26,52"
+,Varianzen sind nicht gleich,,,",56","9,60",",588","5,33","9,51","-15,97","26,64"
+
+Table: Gruppenstatistiken
+,Gruppe,N,Mittelwert,Std. Abweichung,Standardfehler des Mittelwertes
+Zeit_abseits_prozentual,Szenario 1,6,"21,67","18,07","7,38"
+,Baseline 2,6,"21,00","16,19","6,61"
+
+Table: Test bei unabhängigen Stichproben
+,,Levene-Test der Varianzgleichheit,,T-Test für die Gleichheit der Mittelwerte,,,,,,
+,,F,Sig.,t,df,Sig. (2-seitig),Mittlere Differenz,Stdfehler der Differenz,95% Konfidenzintervall der Differenz,
+,,,,,,,,,Untere,Obere
+Zeit_abseits_prozentual,Varianzen sind gleich,",20",",664",",07","10,00",",948",",67","9,91","-21,40","22,74"
+,Varianzen sind nicht gleich,,,",07","9,88",",948",",67","9,91","-21,44","22,77"
+
+Table: Gruppenstatistiken
+,Gruppe,N,Mittelwert,Std. Abweichung,Standardfehler des Mittelwertes
+Zeit_abseits_prozentual,Szenario 1,6,"21,67","18,07","7,38"
+,Baseline 3,6,"18,67","15,13","6,18"
+
+Table: Test bei unabhängigen Stichproben
+,,Levene-Test der Varianzgleichheit,,T-Test für die Gleichheit der Mittelwerte,,,,,,
+,,F,Sig.,t,df,Sig. (2-seitig),Mittlere Differenz,Stdfehler der Differenz,95% Konfidenzintervall der Differenz,
+,,,,,,,,,Untere,Obere
+Zeit_abseits_prozentual,Varianzen sind gleich,",28",",611",",31","10,00",",762","3,00","9,62","-18,44","24,44"
+,Varianzen sind nicht gleich,,,",31","9,70",",762","3,00","9,62","-18,53","24,53"
+
+Table: Gruppenstatistiken
+,Gruppe,N,Mittelwert,Std. Abweichung,Standardfehler des Mittelwertes
+Zeit_abseits_prozentual,Szenario 1,6,"21,67","18,07","7,38"
+,Szenario 2,6,"22,67","14,07","5,74"
+
+Table: Test bei unabhängigen Stichproben
+,,Levene-Test der Varianzgleichheit,,T-Test für die Gleichheit der Mittelwerte,,,,,,
+,,F,Sig.,t,df,Sig. (2-seitig),Mittlere Differenz,Stdfehler der Differenz,95% Konfidenzintervall der Differenz,
+,,,,,,,,,Untere,Obere
+Zeit_abseits_prozentual,Varianzen sind gleich,",34",",574","-,11","10,00",",917","-1,00","9,35","-21,83","19,83"
+,Varianzen sind nicht gleich,,,"-,11","9,43",",917","-1,00","9,35","-22,00","20,00"

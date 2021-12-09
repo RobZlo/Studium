@@ -1,0 +1,54 @@
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,6,6,6
+Normal Parameter,Mittelwert,"126,21","18,25","16,33"
+,Std. Abweichung,"31,52","12,96","14,69"
+Größte Differenz,Absolut,",18",",26",",37"
+,Positiv,",18",",26",",37"
+,Negativ,"-,17","-,15","-,20"
+Kolmogorov-Smirnov Z,,",43",",63",",91"
+Asymp. Sig. (2-seitig),,",992",",818",",386"
+
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,6,6,6
+Normal Parameter,Mittelwert,"73,50","16,22","21,00"
+,Std. Abweichung,"14,89","15,37","16,19"
+Größte Differenz,Absolut,",24",",30",",31"
+,Positiv,",18",",30",",31"
+,Negativ,"-,24","-,19","-,17"
+Kolmogorov-Smirnov Z,,",60",",74",",76"
+Asymp. Sig. (2-seitig),,",868",",646",",617"
+
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,6,6,6
+Normal Parameter,Mittelwert,"71,69","12,92","18,67"
+,Std. Abweichung,"14,26","12,08","15,13"
+Größte Differenz,Absolut,",15",",35",",27"
+,Positiv,",15",",35",",27"
+,Negativ,"-,11","-,15","-,13"
+Kolmogorov-Smirnov Z,,",38",",85",",67"
+Asymp. Sig. (2-seitig),,",999",",460",",766"
+
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,6,6,6
+Normal Parameter,Mittelwert,"81,49","18,04","21,67"
+,Std. Abweichung,"10,35","17,18","18,07"
+Größte Differenz,Absolut,",19",",31",",25"
+,Positiv,",16",",31",",25"
+,Negativ,"-,19","-,18","-,15"
+Kolmogorov-Smirnov Z,,",45",",76",",61"
+Asymp. Sig. (2-seitig),,",986",",614",",857"
+
+Table: Kolmogorov-Smirnov Test für eine Stichprobe
+,,Gebrauchte_Zeit,Zeit_abseits_Weg,Zeit_abseits_prozentual
+N,,6,6,6
+Normal Parameter,Mittelwert,"87,14","20,82","22,67"
+,Std. Abweichung,"20,37","16,61","14,07"
+Größte Differenz,Absolut,",19",",36",",32"
+,Positiv,",17",",36",",32"
+,Negativ,"-,19","-,20","-,22"
+Kolmogorov-Smirnov Z,,",45",",88",",79"
+Asymp. Sig. (2-seitig),,",986",",426",",558"
